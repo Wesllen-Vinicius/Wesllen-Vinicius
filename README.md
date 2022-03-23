@@ -2,7 +2,6 @@
 
 - 🔭 Trabalho atualmente com desenvolvimento Web, FullStack no TJRO.
 - 🌱 Estudo atualmente Engenharia de Software, typescript e StyledComponents
-- 😄 Pronouns: Ele/Dela
 - ⚡ Fun fact: Costumo ouvir musicas bem diferenciadas quando estou desenvolvendo meus codigos.
 
 <div align="center">
