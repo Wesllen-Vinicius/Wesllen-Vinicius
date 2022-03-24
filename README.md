@@ -5,7 +5,7 @@
 - ⚡ Fun fact: Costumo ouvir musicas bem diferenciadas quando estou desenvolvendo meus codigos.
 
 <div align="center">
-  <a href="https://github.com/Wes-debug/Wes-debug">
+  <a href="https://github.com/Wes-debug">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wes-debug&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wes-debug&layout=compact&langs_count=7&theme=dracula"/>
 </div>
