@@ -5,12 +5,11 @@
 - ⚡ Fun fact: Costumo ouvir musicas bem diferenciadas quando estou desenvolvendo meus codigos.
 
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wes-debug)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wes-debug&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
-  
   <a href="https://github.com/Wes-debug">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wes-debug)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Wes-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
