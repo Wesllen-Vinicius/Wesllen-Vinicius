@@ -4,8 +4,8 @@
 - 🌱 Estudo atualmente Engenharia de Software, typescript e StyledComponents
 - ⚡ Fun fact: Costumo ouvir musicas bem diferenciadas quando estou desenvolvendo meus codigos.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wes-debug&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wes-debug&langs_count=12&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<img height='180em' src="https://github-readme-stats.vercel.app/api?username=wes-debug&show_icons=true&theme=dracula%22/%3E" />
+<img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=wes-debug&layout=compact&langs_count=7&theme=dracula" />
 
 <div align="center">
   <a href="https://github.com/Wes-debug">
