@@ -4,8 +4,10 @@
 - 🌱 Estudo atualmente Engenharia de Software, typescript e StyledComponents
 - ⚡ Fun fact: Costumo ouvir musicas bem diferenciadas quando estou desenvolvendo meus codigos.
 
-<img height='180em' src="https://github-readme-stats.vercel.app/api?username=wes-debug&show_icons=true&theme=dracula%22/%3E" />
-<img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=wes-debug&layout=compact&langs_count=7&theme=dracula" />
+<div  style="display:inline_block">
+<img height='180em' src="https://github-readme-stats.vercel.app/api?username=wes-debug&show_icons=true&theme=dracula" />
+<img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wes-debug&layout=compact&langs_count=7&theme=dracula" />
+</div>
 
 <div align="center">
   <a href="https://github.com/Wes-debug">
