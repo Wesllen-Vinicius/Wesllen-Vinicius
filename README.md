@@ -5,7 +5,6 @@
 - ⚡ Fun fact: Costumo ouvir musicas bem diferenciadas quando estou desenvolvendo meus codigos.
 
 <div  style="display:inline_block">
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Wesllen-Vinicius" alt="wesllen-vinicius" /> </p>
 <img height='180em' src="https://github-readme-stats.vercel.app/api?username=Wesllen-vinicius&show_icons=true&theme=dracula" />
 <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wesllen-vinicius&layout=compact&langs_count=7&theme=dracula" />
 </div>
