@@ -1,4 +1,4 @@
-### 👋 Olá me chamo Wesllen, seja bem vindo.   
+### 👋 Olá, me chamo Wesllen, seja bem vindo.   
 
 
 <div  style="display:inline_block">
