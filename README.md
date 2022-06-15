@@ -1,8 +1,5 @@
-### 👋 Olá me chamo Wesllen, seja bem vindo ao meu portifolio.   
+### 👋 Olá me chamo Wesllen, seja bem vindo.   
 
-- 🔭 Trabalho atualmente com desenvolvimento Web, FullStack no TJRO.
-- 🌱 Estudo atualmente Engenharia de Software, typescript e StyledComponents
-- ⚡ Fun fact: Costumo ouvir musicas bem diferenciadas quando estou desenvolvendo meus codigos.
 
 <div  style="display:inline_block">
 <img height='180em' src="https://github-readme-stats.vercel.app/api?username=Wesllen-vinicius&show_icons=true&theme=dracula" />
