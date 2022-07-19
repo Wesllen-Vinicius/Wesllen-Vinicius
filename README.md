@@ -28,8 +28,7 @@
 </div>
 
 
-  <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+  
   
   
   <div> 
@@ -40,6 +39,10 @@
  
 ![Snake animation](https://github.com/Wesllen-Vinicius/Wesllen-Vinicius/blob/output/github-contribution-grid-snake.svg)
  
+    
+ <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->   
+    
 </div>
 
   
