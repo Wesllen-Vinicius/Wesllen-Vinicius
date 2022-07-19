@@ -6,6 +6,9 @@
 <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wesllen-vinicius&layout=compact&langs_count=15&theme=dracula" />
 </div>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <div align="center">
   <a href="https://github.com/Wesllen-Vinicius">
 </div>
@@ -26,8 +29,6 @@
 </div>
   
   ### 
-  <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
   <div> 
   <a href="https://instagram.com/wes_ev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="Wes#2026" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
